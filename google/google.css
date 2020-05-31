@@ -65,7 +65,7 @@ img{
 
 
 
-.sb-example-1 .search{
+.se1 .search{
   width: 40%;
   height: 40px;
   position: relative;
@@ -78,7 +78,7 @@ img{
   
 }
 
-.sb-example-1 .search:hover{
+.se1 .search:hover{
 	border:3px solid rgba(192,192,192,0.4);
 }
 
@@ -93,7 +93,7 @@ img{
 */
 
 
-.sb-example-1 .searchTerm {
+.se1 .searchTerm {
   width: 90%;
   border: 1px solid  rgba(0,0,0,0);
   border-right: none;
@@ -103,14 +103,14 @@ img{
   caret-color: #000000;
 }
 
-.sb-example-1 .searchTerm:focus{
+.se1 .searchTerm:focus{
   color: #696969;
   font-family: Arial sans-serif;
   font-size:110%;
 }
 
 
-.sb-example-1 .searchButton {
+.se1 .searchButton {
   width: 25px;
   height: 20px;
   padding-top:1.5%;
@@ -125,7 +125,7 @@ img{
   float: left;
 }
 
-.sb-example-1{
+.se1{
 
 	height:50px;
 	margin-top:2%;
